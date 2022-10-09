@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValeoAutomationTask", "ValeoAutomationTask.csproj", "{624EB8EC-5B51-49C0-A9FA-281E2BAC6677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624EB8EC-5B51-49C0-A9FA-281E2BAC6677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624EB8EC-5B51-49C0-A9FA-281E2BAC6677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624EB8EC-5B51-49C0-A9FA-281E2BAC6677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624EB8EC-5B51-49C0-A9FA-281E2BAC6677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B041E8F-617D-4AD7-99D1-5B750FC3B074}
+	EndGlobalSection
+EndGlobal
